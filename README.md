@@ -1,4 +1,4 @@
-# Wallpaper Generator 
+# Super Resolution Image Generator
 
 High-quality AI image upscaling tool using OpenCV’s **DNN Super-Resolution (FSRCNN/EDSR)**. Designed for ultra-high-resolution wallpaper generation with enhancements like denoising, sharpening, CLAHE, and gamma correction.
 
