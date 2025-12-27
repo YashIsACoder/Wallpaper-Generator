@@ -23,7 +23,7 @@ This version is **single-threaded and robust**, optimized for macOS, Linux, and 
 ## Folder Structure
 
 ```
-SuperResolutionApp/
+Wallpaper-Generator/
 ├── CMakeLists.txt
 ├── src/
 │   └── main.cpp
