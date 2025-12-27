@@ -1,0 +1,12 @@
+# Ignore build artifacts
+build/
+
+# Ignore CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore editor/OS clutter
+*.swp
+*.DS_Store
