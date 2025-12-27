@@ -54,10 +54,10 @@ SuperResolutionApp/
 
 ```bash
 git clone <repo_url>
-cd SuperResolutionApp
+cd Wallpaper-Generator
 ```
 
-### 2. Place model
+### 2. Place model (optional)
 
 Download a compatible FSRCNN or EDSR model (OpenCV `.pb` format) and put it into `models/`.
 
